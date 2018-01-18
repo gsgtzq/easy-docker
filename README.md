@@ -1,4 +1,6 @@
 ## Easy Docker
+
+![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 本仓库旨在建立一些更容易使用的docker镜像，几乎开箱即用的镜像可以快速搭建开发环境（个人喜好）。
 
 ### Content
