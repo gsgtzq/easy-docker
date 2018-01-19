@@ -7,5 +7,5 @@
 - Linux环境下，需要将应用程序目录所有者修改为`www-data`，否则文件夹不可写会导致程序无法运行。
 
 ```bash
-sudo chown -R www-data:www-data /path/to/your/app
+sudo chown -R 33:33 /path/to/your/app
 ```
